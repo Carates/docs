@@ -1,4 +1,9 @@
----
+---git clone https://github.com/github/docs
+cd docs
+npm ci
+npm run build
+npm start
+
 title: Search
 redirect_from:
   - /v3/search
